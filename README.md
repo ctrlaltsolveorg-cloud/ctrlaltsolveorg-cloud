@@ -90,10 +90,6 @@ const operative = {
 
 <br/><br/>
 
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ctrlaltsolveorg-cloud&hide_border=true&bg_color=0d1117&color=00ff41&line=00f5d4&point=50ff7a&area=true&area_color=00ff41" />
-
-<br/><br/>
-
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ctrlaltsolveorg-cloud/ctrlaltsolveorg-cloud/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ctrlaltsolveorg-cloud/ctrlaltsolveorg-cloud/output/github-snake.svg" />

@@ -19,17 +19,17 @@ jobs:
 
     steps:
       - name: Generate Snake Animation
-        uses: Platane/snk@v3
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg?color_snake=#38bdf8&color_dots=#161b22,#0d2238,#1e40af,#3b82f6,#60a5fa
-            dist/github-snake-dark.svg?color_snake=#38bdf8&color_dots=#161b22,#0d2238,#1e40af,#3b82f6,#60a5fa
+            dist/github-snake.svg?color_snake=#38bdf8
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#38bdf8
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Push Snake SVG to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist

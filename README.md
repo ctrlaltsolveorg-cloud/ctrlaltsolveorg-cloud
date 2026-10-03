@@ -3,7 +3,20 @@
   <img width="100%" src="https://raw.githubusercontent.com/ctrlaltsolveorg-cloud/ctrlaltsolveorg-cloud/main/assets/matrix-banner.svg" alt="Piyush Kumar Matrix Cyber Banner" />
 </div>
 
-<!-- ═══════════════════════ MATRIX TERMINAL TYPING LOOP ═══════════════════════ -->
+<br/>
+
+<!-- ═══════════════════════ OPERATIVE PIXEL ART AVATAR ═══════════════════════ -->
+<div align="center">
+  <a href="https://github.com/ctrlaltsolveorg-cloud">
+    <img src="https://raw.githubusercontent.com/ctrlaltsolveorg-cloud/ctrlaltsolveorg-cloud/main/assets/avatar-frame.svg" width="190" height="190" alt="Piyush Kumar 32-Bit Cyberpunk Pixel Art Avatar" />
+  </a>
+  <br/><br/>
+  <code style="color: #00ff41; background: #05080c; border: 1px solid #00ff41; padding: 4px 14px; border-radius: 4px; font-size: 12px; font-family: monospace;">
+    [ IDENTIFIED OPERATIVE: PIYUSH KUMAR &bull; 32-BIT NEURAL MATRIX AVATAR ]
+  </code>
+</div>
+
+<br/>
 <div align="center">
   <a href="https://github.com/ctrlaltsolveorg-cloud">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2400&pause=800&color=00FF41&center=true&vCenter=true&width=780&lines=%3E+%5BROOT%40MATRIX%5D%3A+%24+.%2Finitialize_kernel.sh...;%3E+STREAMING+BINARY%3A+01000010+01010101+01001001+01001100+01000100;%3E+OPERATIVE+IDENTIFIED%3A+Piyush+Kumar+%5BFull-Stack+%26+AI+Architect%5D;%3E+DEPLOYMENT+ONLINE%3A+HORIZON+Platform+%5B100%25+OPERATIONAL%5D;%3E+DIRECTIVE%3A+Zero+Latency+%C2%B7+High-Throughput+%C2%B7+Scalable;%3E+%22Wake+up%2C+Neo...+The+Matrix+has+you.%22+%F0%9F%90%87" alt="Matrix Typing SVG" />
